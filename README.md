@@ -1,7 +1,7 @@
   # Desenvolvimento-web
-  Primeira atividade da materia de Desenvolvimento-web da catolica
+  Atividades da materia de Desenvolvimento-web da catolica
   
-  ![image](https://github.com/Thiago-engenheiro/Desenvolvimento-web/blob/main/Atividade%201%20(Calculadora%20simples%20)/Imagens%20para%20github/Programa%C3%A7%C3%A3o-Calculadora%20aritm%C3%A9tica%20(1).png?raw=true)
+  ![image](https://github.com/Thiago-engenheiro/Desenvolvimento-web/blob/main/Imagens%20para%20github/Programa%C3%A7%C3%A3o-Atividades%20javascript%20.png)
 
 ## ✔️ Ferramentas utilizadas:
 
@@ -17,17 +17,17 @@
 
 * Aprendizando de JAVASCRIPT
 
-## 🔨 O que codigo faz:
+## 🔨 O que codigo da 1 primeira atividade faz :
 
 * Calculos aritméticos
 
-  ![image](https://github.com/Thiago-engenheiro/Desenvolvimento-web/blob/main/Atividade%201%20(Calculadora%20simples%20)/Imagens%20para%20github/Captura%20de%20tela%202024-03-14%20145953.png?raw=true)
+  ![image](https://github.com/Thiago-engenheiro/Desenvolvimento-web/blob/main/Imagens%20para%20github/Captura%20de%20tela%202024-03-14%20145953.png?raw=true)
 
-## 🚧 observações:
+  ## 🔨 O que codigo da 2 segunda atividade faz :
+
+* Verificador de numeros primos
+
+  ![image](https://github.com/Thiago-engenheiro/Desenvolvimento-web/blob/main/Imagens%20para%20github/Captura%20de%20tela%202024-03-15%20113257.png?raw=true)
 
 
-
-## link do site:
-
-Não tera. 
 
